@@ -2,7 +2,7 @@ using Documenter
 
 format = Documenter.HTML(assets=["assets/css/ai4e.css"])
 
-SolarEnergy = map(file -> joinpath("SolarEnergy", file), readdir(joinpath(@__DIR__, "src", "SolarEnergy")))
+SolarEnergy = map(file -> joinpath("RenewableEnergy", file), readdir(joinpath(@__DIR__, "src", "RenewableEnergy")))
 
 makedocs(
     sitename="碳中和开源汇编",
@@ -16,7 +16,7 @@ makedocs(
     ],
     pages=[
         "Home" => "index.md",
-        "SolarEnergy" => SolarEnergy,
+        "RenewableEnergy" => SolarEnergy,
     ],
     format=format,
 )
