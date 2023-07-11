@@ -29,12 +29,12 @@ SolarPILOT具有以下特点和功能：
 ## 基础信息
 
 以下是关于SolarPILOT（Solar Power tower Integrated Layout and Optimization Tool）的基础信息：
-1. 项目网址：官方网站（https://www.nrel.gov/csp/solarpilot.html）你可以在GitHub上找到SolarPILOT的项目页面，网址为https://github.com/NREL/SolarPILOT。
-2. 源码网址：你可以在GitHub上获取SolarPILOT的源代码，网址为https://github.com/NREL/SolarPILOT。
-3. 开发者：SolarPILOT是由美国国家可再生能源实验室（NREL）开发的项目。
-4. 起始时间：SolarPILOT项目的起始时间是2010年。该项目于2010年开始进行开发，并经过多年的研究和改进，逐渐成为一个强大而成熟的太阳能热发电系统设计和优化软件。在过去的几年里，SolarPILOT经历了多个版本的更新和改进，以满足用户的需求并提供更好的功能和性能。请注意，这些信息是基于2021年的知识，因此可能会有更新。建议您访问SolarPILOT的官方网站或联系NREL以获取最新的起始时间和相关信息。
-5. 最后更新时间：截至2023年7月10日，最后更新时间为2023年6月29日，这个信息可能已经过时，你可以在GitHub上查看最新的提交记录和更新情况。
-6. License：SolarPILOT的许可证（License）是NREL BSD-3-Clause许可证。该许可证是一种开放源代码许可证，允许用户在遵守许可证的条件下使用、修改和分发软件。具体的许可证条款可以在SolarPILOT的源代码仓库（https://github.com/NREL/SolarPILOT/blob/develop/LICENSE.md）找到。
+- 项目网址：[https://www.nrel.gov/csp/solarpilot.html](https://www.nrel.gov/csp/solarpilot.html)。
+- 源码网址：[https://github.com/NREL/SolarPILOT](https://github.com/NREL/SolarPILOT)。
+- 开发者：美国国家可再生能源实验室（NREL）。
+- 起始时间：SolarPILOT项目的起始时间是2010年。该项目于2010年开始进行开发，并经过多年的研究和改进，逐渐成为一个强大而成熟的太阳能热发电系统设计和优化软件。在过去的几年里，SolarPILOT经历了多个版本的更新和改进，以满足用户的需求并提供更好的功能和性能。
+- 最后更新时间：截至2023年7月10日，最后更新时间为2023年6月29日，这个信息可能已经过时，你可以在GitHub上查看最新的提交记录和更新情况。
+- License：BSD-3-Clause许可证。该许可证是一种开放源代码许可证，允许用户在遵守许可证的条件下使用、修改和分发软件。
 
 ## SolarPILOT的系统构成
 
